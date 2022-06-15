@@ -90,7 +90,6 @@ void pchar(stack_t **stack, unsigned int nline)
 		fprintf(stderr, "L%d: can't pchar, stack empty\n", nline);
 		exit(EXIT_FAILURE);
 	}
-
 	temp = *stack;
 	while (temp)
 	{
@@ -98,7 +97,6 @@ void pchar(stack_t **stack, unsigned int nline)
 			break;
 		temp = temp->prev;
 	}
-
 	c = temp->n;
 	if (_isalpha(temp->n) == 0)
 	{
