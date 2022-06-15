@@ -13,7 +13,6 @@
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
- *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
  */
@@ -30,7 +29,6 @@ extern arg_t arg;
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
- *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
  */
@@ -45,7 +43,6 @@ typedef struct stack_s
  * struct instruction_s - opcode and its function
  * @opcode: the opcode
  * @f: function to handle the opcode
- *
  * Description: opcode and its function
  * for stack, queues, LIFO, FIFO Holberton project
  */
@@ -59,7 +56,6 @@ typedef struct instruction_s
  * struct line - contents of line and corresponding number
  * @contents: array of tokens read from the line
  * @number: the line number
- *
  * Description: contents of a line and corresponding number
  */
 typedef struct line
@@ -73,7 +69,6 @@ typedef struct line
  * @n: integer
  * @prev: points to the previous element of the stack (or queue)
  * @next: points to the next element of the stack (or queue)
- *
  * Description: doubly linked list node structure
  * for stack, queues, LIFO, FIFO Holberton project
  */
