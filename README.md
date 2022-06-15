@@ -107,4 +107,3 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 ## Authors
 * **Olumide Micheal** - [King-Mide-1](https://github.com/King-Mide-1)
-* **Wescott Sharples** - [wescottsharples](https://github.com/wescottsharples)
