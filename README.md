@@ -23,12 +23,6 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ```
 ---
 
-## Example
-
-![demo](https://puu.sh/CksXw/b90dd61cb5.png)
-
----
-
 ## Files
 
 ### [monty.c](./monty.c)
@@ -105,5 +99,5 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 ---
 
-## Authors
+## Author
 * **Olumide Micheal** - [King-Mide-1](https://github.com/King-Mide-1)
