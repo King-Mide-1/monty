@@ -100,4 +100,4 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 ---
 
 ## Author
-* **Olumide Micheal** - [King-Mide-1](https://github.com/King-Mide-1)
+* **Olumide Micheal** - [codewithmide](https://github.com/codewithmide)
